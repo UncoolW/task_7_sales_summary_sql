@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# SQLite database
+*.db
+
+# Output images
+*.png
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks (if you switch formats later)
+*.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
